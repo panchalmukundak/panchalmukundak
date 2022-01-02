@@ -8,8 +8,8 @@
 - 🔭 I just launched my first course: [Become A SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🥅 2022 Goals: Contribute more to Open Source projects...
+- ⚡ Fun fact: I love to draw and code the some programs
 
 ### Connect with me:
 
@@ -27,7 +27,7 @@
 [website]: https://tacnix.com
 [course]: http://course.tacnix.com
 [twitter]: https://twitter.com/panchalmukundak
-[youtube]: https://youtube.com/panchalmukundak
+[youtube]: https://www.youtube.com/channel/UCqMUGxIvXsM3sMHEB4Gm5PQ
 [instagram]: https://instagram.com/panchalmukundak
 [linkedin]: https://linkedin.com/in/panchalmukundak
 [webdevplaylist]: https://www.youtube.com/channel/UCqMUGxIvXsM3sMHEB4Gm5PQ/playlists
