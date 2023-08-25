@@ -8,7 +8,7 @@
 - 🔭 I'll launch my first course soon: [How To Become A SuperCoder!][course]!
 - 🌱 I'm currently learning everything 🤣
 - 👯 I'm looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects...
+- 🥅 2023 Goals: Contribute more to Open Source projects...
 - ⚡ Fun fact: I love to draw and code the some programs
 
 ### Connect with me:
