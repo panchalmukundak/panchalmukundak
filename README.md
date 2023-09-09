@@ -22,8 +22,7 @@
 [<img align="left" alt="React" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />][react]
 [<img align="left" alt="Typescript" width="22px" src="https://simpleicons.org/icons/typescript.svg" />][typescript]
 
-
-
+<br />
 
 ### Connect with me:
 
