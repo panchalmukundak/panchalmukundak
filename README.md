@@ -20,7 +20,10 @@
 [<img align="left" alt="PanchalMukundaK PHP" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" />][php]
 [<img align="left" alt="PanchalMukundaK MySQL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />][mysql]
 [<img align="left" alt="PanchalMukundaK React" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />][react]
-[<img align="left" alt="PanchalMukundaK Typescript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/TypeScript.svg][typescript]
+[<img align="left" alt="PanchalMukundaK Typescript" width="22px" src="https://simpleicons.org/icons/typescript.svg][typescript]
+
+
+
 
 ### Connect with me:
 
