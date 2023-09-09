@@ -13,9 +13,9 @@
 
 ### Tools I use:
 
-[<img align="left" alt="tacnix.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/php.svg" />][php]
-[<img align="left" alt="tacnix.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/react.svg" />][react]
-[<img align="left" alt="tacnix.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/typescript.svg][typescript]
+[<img align="left" alt="PanchalMukundaK YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" />][php]
+[<img align="left" alt="PanchalMukundaK YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />][react]
+[<img align="left" alt="PanchalMukundaK YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg][typescript]
 
 ### Connect with me:
 
