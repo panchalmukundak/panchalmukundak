@@ -13,8 +13,8 @@
 
 ### Tools I use:
 
-[<img align="left" alt="HTML" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html.svg" />][html]
-[<img align="left" alt="CSS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css.svg" />][css]
+[<img align="left" alt="HTML" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />][html]
+[<img align="left" alt="CSS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />][css]
 [<img align="left" alt="JavaScript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />][javascript]
 [<img align="left" alt="Bootstrap" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" />][bootstrap]
 [<img align="left" alt="PHP" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" />][php]
