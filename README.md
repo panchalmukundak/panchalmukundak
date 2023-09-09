@@ -13,14 +13,14 @@
 
 ### Tools I use:
 
-[<img align="left" alt="PanchalMukundaK HTML" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html.svg" />][html]
-[<img align="left" alt="PanchalMukundaK CSS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css.svg" />][css]
-[<img align="left" alt="PanchalMukundaK JavaScript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />][javascript]
-[<img align="left" alt="PanchalMukundaK Bootstrap" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" />][bootstrap]
-[<img align="left" alt="PanchalMukundaK PHP" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" />][php]
-[<img align="left" alt="PanchalMukundaK MySQL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />][mysql]
-[<img align="left" alt="PanchalMukundaK React" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />][react]
-[<img align="left" alt="PanchalMukundaK Typescript" width="22px" src="https://simpleicons.org/icons/typescript.svg][typescript]
+[<img align="left" alt="HTML" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html.svg" />][html]
+[<img align="left" alt="CSS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css.svg" />][css]
+[<img align="left" alt="JavaScript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />][javascript]
+[<img align="left" alt="Bootstrap" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" />][bootstrap]
+[<img align="left" alt="PHP" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" />][php]
+[<img align="left" alt="MySQL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />][mysql]
+[<img align="left" alt="React" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />][react]
+[<img align="left" alt="Typescript" width="22px" src="https://simpleicons.org/icons/typescript.svg />][typescript]
 
 
 
