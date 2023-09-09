@@ -20,7 +20,7 @@
 [<img align="left" alt="PHP" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" />][php]
 [<img align="left" alt="MySQL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />][mysql]
 [<img align="left" alt="React" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />][react]
-[<img align="left" alt="Typescript" width="22px" src="https://simpleicons.org/icons/typescript.svg />][typescript]
+[<img align="left" alt="Typescript" width="22px" src="https://simpleicons.org/icons/typescript.svg" />][typescript]
 
 
 
