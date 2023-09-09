@@ -13,6 +13,10 @@
 
 ### Tools I use:
 
+[<img align="left" alt="PanchalMukundaK HTML" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html.svg" />][html]
+[<img align="left" alt="PanchalMukundaK CSS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css.svg" />][css]
+[<img align="left" alt="PanchalMukundaK JavaScript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />][javascript]
+[<img align="left" alt="PanchalMukundaK Bootstrap" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" />][bootstrap]
 [<img align="left" alt="PanchalMukundaK PHP" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" />][php]
 [<img align="left" alt="PanchalMukundaK MySQL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />][mysql]
 [<img align="left" alt="PanchalMukundaK React" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />][react]
@@ -47,3 +51,7 @@
 [mysql]: https://dev.mysql.com/doc/
 [typescript]: https://www.typescriptlang.org/docs/
 [php]: https://www.php.net/docs.php
+[html]: https://www.w3schools.com/html/html_intro.asp
+[css]: https://www.w3schools.com/css/default.asp
+[javascript]: https://www.w3schools.com/js/default.asp
+[bootstrap]: https://www.w3schools.com/bootstrap/bootstrap_ver.asp
