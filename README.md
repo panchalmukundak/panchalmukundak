@@ -50,8 +50,6 @@
 [linkedin]: https://linkedin.com/in/panchalmukundak
 [youtube]: https://www.youtube.com/@panchalmukundak
 [youtubeplaylist]: https://www.youtube.com/@panchalmukundak/playlists
-<!-- [youtube2]: https://www.youtube.com/channel/UCqMUGxIvXsM3sMHEB4Gm5PQ -->
-<!-- [youtubelaylist2]: https://www.youtube.com/channel/UCqMUGxIvXsM3sMHEB4Gm5PQ/playlists -->
 [react]: https://react.dev/learn
 [mysql]: https://dev.mysql.com/doc/
 [typescript]: https://www.typescriptlang.org/docs/
