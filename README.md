@@ -6,10 +6,10 @@
 ## I'm a Full-Stack Developer!!
 
 - 🔭 I'll launch my first course soon: [How To Become A SuperCoder!][course]!
-- 🌱 I'm currently learning React, Tipescript, Python
-- 👯 I'm looking to collaborate with other content creators working on php, react, typescript, nuxt, & node
-- 🥅 2023 Goals: Contribute on Open Source ERP/CRM/CMS Software where user can manage and maintain the it's own EPR/CRM/CMS data and make create website and can make bulk SMS/Emailing from one point.
-- ⚡ Fun fact: I love to draw and code the some programs
+- 🌱 I'm currently learning Nextjs, Reactjs, React Native, Typescript, Python, Strapi
+- 👯 I'm looking to collaborate with other content creators working on php!
+- 🥅 2024 Goals: Contribute an Open Source Software.
+- ⚡ Fun fact: I love to draw and code some programs
 
 ### Tools I use:
 
