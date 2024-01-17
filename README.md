@@ -7,7 +7,7 @@
 
 - 🔭 I'll launch my first course soon: [How To Become A SuperCoder!][course]!
 - 🌱 I'm currently learning Nextjs, Reactjs, React Native, Typescript, Python, Strapi
-- 👯 I'm looking to collaborate with other content creators working on php!
+- 👯 I'm looking to collaborate with other content creators working on php, & reactjs!
 - 🥅 2024 Goals: Contribute an Open Source Software.
 - ⚡ Fun fact: I love to draw and code some programs
 
