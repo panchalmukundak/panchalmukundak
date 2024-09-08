@@ -12,8 +12,6 @@ I'm an enthusiastic **Full-Stack Developer** dedicated to crafting innovative an
   - Enhance skills in advanced software development techniques
 - ⚡ **Fun Fact:** When I'm not coding, you’ll find me riding my bike and exploring the city to clear my mind and find inspiration.
 
-- 📄 Know about me [Resume](https://panchalmukundak.notion.site/Panchal-Mukunda-K-3765c7eee94143f28fedee0e0cb68881)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/panchalmukundak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="panchalmukundak" height="30" width="40" /></a>
