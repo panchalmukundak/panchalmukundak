@@ -1,6 +1,6 @@
 # 👋 Panchal Mukunda K
 
-**Full-Stack Developer** | **Laravel & PHP Specialist** | **Entrepreneur** | Based in Vadodara, India
+**Full-Stack Developer** | **Laravel & PHP Specialist** | **Entrepreneur** | Based from Mumbai, Maharashtra. India | Currently in Vadodara, India
 
 ---
 
