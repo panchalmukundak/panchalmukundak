@@ -29,7 +29,7 @@ I'm a passionate full-stack developer dedicated to building scalable, innovative
 
 **Emerging:** [React.js](https://reactjs.org) • [TypeScript](https://www.typescriptlang.org)
 
-**Tools & Services:** Firebase • DigitalOcean • Netlify • Vercel • GitHub • Stripe • Zoho Suite
+**Tools & Services:** [Firebase](https://firebase.google.com/) • [DigitalOcean](https://www.digitalocean.com/) • [Netlify](https://www.netlify.com/) • [Vercel](https://vercel.com/) • [GitHub](https://github.com/) • [Stripe](https://stripe.com/) • [Zoho](https://www.zoho.com/)
 
 ---
 
